@@ -1,7 +1,9 @@
 
 # Data-Goddess-Tshirt
 
-The following noun project icons were used in the tshirt.
+Design by Nisha Thompson realsed under CC BY 3.0
+
+The following noun project icons were used in the tshirt. All of them are availabe under CC BY 3.0 on Noun Project website.
 
 - [Talk By Shane David Kenna, IE ](https://thenounproject.com/term/talk/82527)
 - [Phone By Joris Hoogendoorn, NL](https://thenounproject.com/term/phone/42970/)
@@ -15,6 +17,6 @@ The following noun project icons were used in the tshirt.
 
 
 
-All of them are availabe under CC BY 3.0.
+
 
 
